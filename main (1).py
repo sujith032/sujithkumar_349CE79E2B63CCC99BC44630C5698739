@@ -26,7 +26,7 @@ class BankAccount:
 
 # Example usage:
 if __name__ == "__main__":
-    account1 = BankAccount("1234567", "Anandu", 1000)
+    account1 = BankAccount("1234567", "Sujith", 1000)
     
     print(account1.display_balance())
     print(account1.deposit(500))
